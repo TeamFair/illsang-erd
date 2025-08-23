@@ -4,8 +4,8 @@
   "settings": {
     "width": 4000,
     "height": 4000,
-    "scrollTop": -1649.9617,
-    "scrollLeft": -656.1885,
+    "scrollTop": -2321.9617,
+    "scrollLeft": -1753.1885,
     "zoomLevel": 0.73,
     "show": 511,
     "database": 16,
@@ -3157,7 +3157,7 @@
         "comment": "퀴즈 ID",
         "dataType": "bigint",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 2,
           "widthName": 60,
@@ -3166,7 +3166,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1755412896781,
+          "updateAt": 1755968570873,
           "createAt": 1742222882338
         }
       },
